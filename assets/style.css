@@ -1,3 +1,48 @@
 .title{
     display: inline;
 }
+main{
+background-color: rgb(128, 128, 128, 0.2);
+height: 2000px;
+width: 2000px;
+position: relative;
+}
+.container1{
+background-color: white;
+
+}
+.btn1{
+    background-color: blue;
+    color: white;
+}
+.btn2{
+    color: gray;
+    
+}
+.container2{
+    background-color: white;
+}
+.edit, .q1, .rec, .mob, .web, .sale{
+    color: white;
+    border-radius: 2em;
+    font-style: italic;
+}
+.edit{
+background-color: blue;
+}
+.q1{
+background-color: violet;
+}
+    
+.rec{
+background-color: greenyellow;
+}
+.mob{
+background-color: orange;
+}
+.web{
+background-color: purple;
+}
+.sale{
+background-color: green;
+}
