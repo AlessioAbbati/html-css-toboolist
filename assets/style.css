@@ -1,9 +1,12 @@
 .title{
     display: inline;
+    position: absolute;
+    top: 0;
 }
 header{
     background-color: white;
     margin-top: o;
+    position: relative;
 }
 body{
     background-color: rgb(128, 128, 128, 0.2);
@@ -13,8 +16,9 @@ main{
 
 }
 .container1{
-background-color: white;
-border-radius: 2em;
+   background-color: white;
+   border-radius: .2em;
+   background-size: ;
 
 }
 .btn1{
@@ -30,7 +34,7 @@ border-radius: 2em;
 }
 .container2{
     background-color: white;
-    border-radius: 2em;
+    border-radius: .2em;
     
 }
 h3{
@@ -39,7 +43,9 @@ h3{
 ul{
     list-style: none;
 }
-
+li{
+    margin-bottom: 10px;
+}
 .edit, .q1, .rec, .mob, .web, .sale{
     color: white;
     border-radius: 3em;
