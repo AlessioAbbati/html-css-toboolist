@@ -1,15 +1,20 @@
 .title{
     display: inline;
-    font
+}
+header{
+    background-color: white;
+    margin-top: o;
+}
+body{
+    background-color: rgb(128, 128, 128, 0.2);
 }
 main{
-background-color: rgb(128, 128, 128, 0.2);
-height: 2000px;
-width: 2000px;
-position: relative;
+   margin: 50px 250px 50px 250px;
+
 }
 .container1{
 background-color: white;
+border-radius: 2em;
 
 }
 .btn1{
@@ -25,10 +30,16 @@ background-color: white;
 }
 .container2{
     background-color: white;
+    border-radius: 2em;
+    
+}
+h3{
+    margin-left: 35px;
 }
 ul{
     list-style: none;
 }
+
 .edit, .q1, .rec, .mob, .web, .sale{
     color: white;
     border-radius: 3em;
@@ -60,4 +71,14 @@ border: 3px solid purple;
 .sale{
 background-color: green;
 border: 3px solid green;
+}
+.check{
+    border: 1px solid green;
+    color: green;
+    border-radius: 100%;
+}
+.cross{
+    border: 1px solid red;
+border-radius: 100%;
+   color: red; 
 }
