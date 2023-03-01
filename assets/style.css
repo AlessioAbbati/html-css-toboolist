@@ -34,12 +34,12 @@ main{
 .btn1{
     background-color: blue;
     color: white;
-    border-radius: 3em;
+    border-radius: .2em;
     border-color: blue;
 }
 .btn2{
     color: gray;
-    border-radius: 3em;
+    border-radius: .2em;
     border-color: gray;
 }
 .container2{
