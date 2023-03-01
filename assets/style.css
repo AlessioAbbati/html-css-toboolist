@@ -7,7 +7,6 @@
 .title{
     display: inline;
     vertical-align: middle;
-    
 }
 header{
     background-color: white;
@@ -20,8 +19,11 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 main{
-   margin: 50px 250px 30px 250px;
-}
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    max-width: 1000px;
+} 
 .container1{
    background-color: white;
    border-radius: .2em;
