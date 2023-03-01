@@ -11,8 +11,6 @@
 }
 header{
     background-color: white;
-    
-   
 }
 body{
     background-color: rgb(128, 128, 128, 0.2);
@@ -23,7 +21,6 @@ body{
 }
 main{
    margin: 50px 250px 30px 250px;
-
 }
 .container1{
    background-color: white;
@@ -55,7 +52,6 @@ main{
 }
 h3{
     margin-left: 35px;
-    
 }
 ul{
     list-style: none;
@@ -68,40 +64,36 @@ li{
     border-radius: 3em;
     font-style: inherit;
     font-size: 0.7em;
-   
 }
 .edit{
-background-color: blue;
-border: 3px solid blue;
+    background-color: blue;
+    border: 3px solid blue;
 }
 .q1{
-background-color: violet;
-border: 3px solid violet;
+    background-color: violet;
+    border: 3px solid violet;
 }
-    
 .rec{
-background-color: greenyellow;
-border: 3px solid greenyellow;
+    background-color: greenyellow;
+    border: 3px solid greenyellow;
 }
 .mob{
-background-color: orange;
-border: 3px solid orange;
+    background-color: orange;
+    border: 3px solid orange;
 }
 .web{
-background-color: purple;
-border: 3px solid purple;
+    background-color: purple;
+    border: 3px solid purple;
 }
 .sale{
-background-color: green;
-border: 3px solid green;
+    background-color: green;
+    border: 3px solid green;
 }
 .check{
-    border: 1px solid green;
-    color: green;
-    border-radius: 100%;
+    border: 1px solid green;color: green;border-radius: 100%;
 }
 .cross{
     border: 1px solid red;
-border-radius: 100%;
-   color: red; 
+    border-radius: 100%;
+    color: red; 
 }
