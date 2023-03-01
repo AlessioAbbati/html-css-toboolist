@@ -91,9 +91,7 @@ li{
     background-color: green;
     border: 3px solid green;
 }
-.check{
-    border: 2px solid green;
-    color: green;
+.check, .cross{
     border-radius: 50%;
     display: inline-block;
     width: 1.3em;
@@ -102,14 +100,11 @@ li{
     font-size: .6em;
     text-align: center;
 }
+.check{
+    border: 2px solid green;
+    color: green;
+}
 .cross{
     border: 2px solid red;
-    border-radius: 50%;
     color: red; 
-    display: inline-block;
-    width: 1.3em;
-    height: 1.3em;
-    font-weight: bold;
-    font-size: .6em;
-    text-align: center;
 }
